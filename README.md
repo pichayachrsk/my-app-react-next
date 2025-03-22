@@ -1,4 +1,4 @@
-This is a demo reusable `TagInput` component that allows users to enter and manage  multiple tags.  This component should be well-structured, flexible, and properly documented.
+This is a demo reusable `TagInput` component that allows users to enter and manage multiple tags.
 ## Getting Started
 
 First, run the development server:
