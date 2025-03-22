@@ -1,0 +1,27 @@
+.tag-box {
+    border: 1px solid black;
+    width: 70px;
+    height: 25px;
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 3px;
+
+    p {
+        font-size: 12px;
+    }
+}
+
+.tag-name {
+    width: 60px;
+    overflow: hidden;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    text-align: center;
+  }
+
+.remove-button:hover {
+    cursor: pointer;
+}
